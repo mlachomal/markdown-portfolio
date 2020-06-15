@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Scribble](http://clipart-library.com/image_gallery/77491.jpg)
